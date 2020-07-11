@@ -7,4 +7,7 @@
       An = the price of an asset at period n
       n = the number of total periods
   </p12>
+  <ol>
+    A simple moving average (SMA) is an arithmetic moving average calculated by adding recent prices and then dividing that by the number of time periods in the calculation average. For example, one could add the closing price of the security for a number of time periods and then dividing this total by that same number of periods. Short-term averages respond quickly to changes in the price of the underlying, while long-term averages are slower to react.
+  </ol>
 </p1>
