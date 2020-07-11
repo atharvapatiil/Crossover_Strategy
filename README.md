@@ -6,7 +6,7 @@
     where:
       An = the price of an asset at period n
       n = the number of total periods
-  <strong>
+  </strong>
   
 </p1>
 <p2>
