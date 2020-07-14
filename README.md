@@ -10,3 +10,5 @@
     <a href="https://www.investopedia.com/terms/s/sma.asp">more info..</a>
   </strong>
 </p1>
+
+Note:
