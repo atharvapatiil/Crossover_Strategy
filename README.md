@@ -11,4 +11,4 @@
   </strong>
 </p1>
 
-Note: If .ipynb file doesn't load click on : https://github.com/atharvapatiil/Crossover_Strategy/blob/master/Bajaj.ipynb
+Note: If .ipynb file doesn't load click on : https://nbviewer.jupyter.org/github/atharvapatiil/Crossover_Strategy/blob/master/Bajaj.ipynb
